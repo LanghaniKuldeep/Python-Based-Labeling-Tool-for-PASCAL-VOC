@@ -1,8 +1,0 @@
-setup.py
-voc_utils/__init__.py
-voc_utils/voc_utils.py
-voc_utils.egg-info/PKG-INFO
-voc_utils.egg-info/SOURCES.txt
-voc_utils.egg-info/dependency_links.txt
-voc_utils.egg-info/requires.txt
-voc_utils.egg-info/top_level.txt
